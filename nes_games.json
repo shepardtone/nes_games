@@ -1,0 +1,36 @@
+{
+  "nes_games": [
+    {
+      "title": "10-Yard Fight",
+      "year_published": 1987
+    },
+    {
+      "title": "1942",
+      "year_published": 1986
+    },
+    {
+      "title": "1943: The Battle of Midway",
+      "year_published": 1988
+    },
+    {
+      "title": "720 Degrees",
+      "year_published": 1989
+    },
+    {
+      "title": "8 Eyes",
+      "year_published": 1989
+    },
+    {
+      "title": "A Boy and His Blobs",
+      "year_published": 1989
+    },
+    {
+      "title": "Abadox",
+      "year_published": 1990
+    },
+    {
+      "title": "Advanced Dungeons and Dragons Hillsfar",
+      "year_published": 1993
+    }
+  ]
+}
