@@ -153,6 +153,10 @@
       "year_published": 1986
     },
     {
+      "title": "Bubble Bobble Part 2",
+      "year_published": 1993
+    },
+    {
       "title": "Bucky O'Hare",
       "year_published": 1992
     },
@@ -163,6 +167,86 @@
     {
       "title": "Burgertime",
       "year_published": 1982
+    },   
+    {
+      "title": "Caesar's Palace",
+      "year_published": 1991
+    },
+    {
+      "title": "Captain America and the Avengers",
+      "year_published": 1991
+    },
+    {
+      "title": "Captain Skyhawk",
+      "year_published": 1989
+    },
+    {
+      "title": "Castlevania",
+      "year_published": 1986
+    },
+    {
+      "title": "Castlevania II: Simon's Quest",
+      "year_published": 1987
+    },
+    {
+      "title": "Castlevania III: Dracula's Curse",
+      "year_published": 1989
+    },
+    {
+      "title": "Caveman Games",
+      "year_published": 1990
+    },
+    {
+      "title": "Championship Bowling",
+      "year_published": 1989
+    },
+    {
+      "title": "Chiller",
+      "year_published": 1986
+    },
+    {
+      "title": "Chubby Cherub",
+      "year_published": 1985
+    },
+    {
+      "title": "Circus Caper",
+      "year_published": 1989
+    },
+    {
+      "title": "City Connection",
+      "year_published": 1985
+    },
+    {
+      "title": "Clu Clu Land",
+      "year_published": 1984
+    },
+    {
+      "title": "Cobra Command",
+      "year_published": 1988
+    },
+    {
+      "title": "Cobra Triangle",
+      "year_published": 1989
+    },
+    {
+      "title": "Code Name: Viper",
+      "year_published": 1990
+    },
+    {
+      "title": "Commando",
+      "year_published": 1985
+    },
+    {
+      "title": "Contra",
+      "year_published": 1987
+    },
+    {
+      "title": "Contra Force",
+      "year_published": 1992
+    },
+    {
+      "title": "Crystalis",
+      "year_published": 1990
     }
   ]
 }
