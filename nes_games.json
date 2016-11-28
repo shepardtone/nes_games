@@ -2,435 +2,543 @@
   "nes_games": [
     {
       "title": "10-Yard Fight",
-      "year_published": 1987
+      "year_published": 1985,
+      "rarity": 2
     },
     {
       "title": "1942",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 3
     },
     {
       "title": "1943: The Battle of Midway",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 4
     },
     {
       "title": "720 Degrees",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "8 Eyes",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "A Boy and His Blob",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Abadox",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Advanced Dungeons and Dragons Hillsfar",
-      "year_published": 1993
+      "year_published": 1993,
+      "rarity": 6
     },
     {
       "title": "Adventure Island",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Adventure Island 2",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 4
     },
     {
       "title": "Adventure Island 3",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 5
     },
     {
       "title": "Afterburner",
-      "year_published": 1987
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Amagon",
-      "year_published": 1988
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Anticipation",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 2
     },
     {
       "title": "Arch Rivals",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Arkanoid",
-      "year_published": 1986
+      "year_published": 1987,
+      "rarity": 4
     },
     {
       "title": "Astyanax",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Athena",
-      "year_published": 1986
+      "year_published": 1987,
+      "rarity": 3
     },
     {
       "title": "Bad Dudes",
-      "year_published": 1988
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Bad News Baseball",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "Balloon Fight",
-      "year_published": 1984
+      "year_published": 1986,
+      "rarity": 4
     },
     {
       "title": "Baseball",
-      "year_published": 1983
+      "year_published": 1985,
+      "rarity": 2
     },
     {
       "title": "Baseball Stars",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Bases Loaded",
-      "year_published": 1987
+      "year_published": 1988,
+      "rarity": 1
     },
     {
       "title": "Bases Loaded 4",
-      "year_published": 1991
+      "year_published": 1993,
+      "rarity": 6
     },
     {
       "title": "Base Wars",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 3
     },
     {
       "title": "Batman",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Battle Chess",
-      "year_published": 1988
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "Battletoads",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 2
     },
     {
       "title": "Bigfoot",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Bionic Commando",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 2
     },
     {
       "title": "Blades of Steel",
-      "year_published": 1987
+      "year_published": 1988,
+      "rarity": 1
     },
     {
       "title": "Blaster Master",
-      "year_published": 1988
+      "year_published": 1989,
+      "rarity": 2
     },
     {
       "title": "Bomberman",
-      "year_published": 1983
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Bomberman 2",
-      "year_published": 1991
+      "year_published": 1993,
+      "rarity": 6
     },
     {
       "title": "Boulder Dash",
-      "year_published": 1984
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "Breakthru",
-      "year_published": 1986
+      "year_published": 1987,
+      "rarity": 3
     },
     {
       "title": "Bubble Bobble",
-      "year_published": 1986
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Bubble Bobble Part 2",
-      "year_published": 1993
+      "year_published": 1993,
+      "rarity": 6
     },
     {
       "title": "Bucky O'Hare",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 5
     },
     {
       "title": "Bump 'n' Jump",
-      "year_published": 1982
+      "year_published": 1988,
+      "rarity": 4
     },
     {
       "title": "Burgertime",
-      "year_published": 1982
+      "year_published": 1987,
+      "rarity": 3
     },   
     {
       "title": "Caesar's Palace",
-      "year_published": 1991
+      "year_published": 1992,
+      "rarity": 3
     },
     {
       "title": "Captain America and the Avengers",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 5
     },
     {
       "title": "Captain Skyhawk",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Castlevania",
-      "year_published": 1986
+      "year_published": 1987,
+      "rarity": 2
     },
     {
       "title": "Castlevania II: Simon's Quest",
-      "year_published": 1987
+      "year_published": 1988,
+      "rarity": 2
     },
     {
       "title": "Castlevania III: Dracula's Curse",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Caveman Games",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "Championship Bowling",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 4
     },
     {
       "title": "Chiller",
-      "year_published": 1986
+      "year_published": 1990,
+      "rarity": 6
     },
     {
       "title": "Chubby Cherub",
-      "year_published": 1985
+      "year_published": 1986,
+      "rarity": 4
     },
     {
       "title": "Circus Caper",
-      "year_published": 1989
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "City Connection",
-      "year_published": 1985
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Clu Clu Land",
-      "year_published": 1984
+      "year_published": 1985,
+      "rarity": 4
     },
     {
       "title": "Cobra Command",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Cobra Triangle",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Code Name: Viper",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Commando",
-      "year_published": 1985
+      "year_published": 1986,
+      "rarity": 2
     },
     {
       "title": "Contra",
-      "year_published": 1987
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Contra Force",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 6
     },
     {
       "title": "Crystalis",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "Deadly Towers",
-      "year_published": 1986
+      "year_published": 1987,
+      "rarity": 2
     },
     {
       "title": "Defender II",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Deja Vu",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Destiny of an Emperor",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 6
     },
     {
       "title": "Disney's Adventures in the Magic Kingdom",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Disney's Chip 'n Dale Rescue Rangers",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 4
     },
     {
       "title": "Disney's Darkwing Duck",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 5
     },
     {
       "title": "Disney's Duck Tales",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Disney's Duck Tales 2",
-      "year_published": 1993
+      "year_published": 1993,
+      "rarity": 6
     },
     {
       "title": "Donkey Kong",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 4
     },
     {
       "title": "Donkey Kong 3",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 3
     },
     {
       "title": "Donkey Kong Classics",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Donkey Kong Jr.",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 5
     },
     {
       "title": "Double Dare",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 5
     },
     {
       "title": "Double Dragon II",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 2
     },
     {
       "title": "Double Dragon III",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 4
     },
     {
       "title": "Double Dribble",
-      "year_published": 1987
+      "year_published": 1987,
+      "rarity": 1
     },
     {
       "title": "Dr. Mario",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 1
     },
     {
       "title": "Dragon Warrior",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 1
     },
     {
       "title": "Duck Hunt",
-      "year_published": 1985
+      "year_published": 1985,
+      "rarity": 1
     },
     {
       "title": "Elevator Action",
-      "year_published": 1987
+      "year_published": 1987,
+      "rarity": 3
     },
     {
       "title": "Excitebike",
-      "year_published": 1985
+      "year_published": 1985,
+      "rarity": 2
     },
     {
       "title": "Exodus",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 5
     },
     {
       "title": "Family Feud",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 5
     },
     {
       "title": "Faxanadu",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "Felix the Cat",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 5
     },
     {
       "title": "Final Fantasy",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 3
     },
     {
       "title": "Fire 'n Ice",
-      "year_published": 1993
+      "year_published": 1993,
+      "rarity": 6
     },
     {
       "title": "Friday the 13th",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     },
     {
       "title": "G.I. Joe: The Atlantis Factor",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 6
     },
     {
       "title": "G.I. Joe",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 6
     },
     {
       "title": "Galaga",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Gargoyle's Quest II",
-      "year_published": 1992
+      "year_published": 1992,
+      "rarity": 5
     },
     {
       "title": "Gauntlet",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 3
     },
     {
       "title": "Ghostbusters",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 4
     },
     {
       "title": "Ghostbusters II",
-      "year_published": 1990
+      "year_published": 1990,
+      "rarity": 5
     },
     {
       "title": "Ghosts 'n Goblins",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 3
     },
     {
       "title": "Golf",
-      "year_published": 1985
+      "year_published": 1985,
+      "rarity": 2
     },
     {
       "title": "Goonies 2",
-      "year_published": 1987
+      "year_published": 1987,
+      "rarity": 3
     },
     {
       "title": "Gradius",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 3
     },
     {
       "title": "Guerilla War",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 4
     },
     {
       "title": "Gumshoe",
-      "year_published": 1986
+      "year_published": 1986,
+      "rarity": 5
     },
     {
       "title": "Gun Nac",
-      "year_published": 1991
+      "year_published": 1991,
+      "rarity": 7
     },
     {
       "title": "Gunsmoke",
-      "year_published": 1988
+      "year_published": 1988,
+      "rarity": 4
     },
     {
       "title": "Gyromite",
-      "year_published": 1985
+      "year_published": 1985,
+      "rarity": 1
     },
     {
       "title": "Gyruss",
-      "year_published": 1989
+      "year_published": 1989,
+      "rarity": 3
     }
   ]
 }
