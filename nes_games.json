@@ -126,6 +126,11 @@
       "rarity": 4
     },
     {
+      "title": "Bandit Kings of Ancient China",
+      "year_published": 1990,
+      "rarity": 7
+    },
+    {
       "title": "Baseball",
       "year_published": 1985,
       "rarity": 2
@@ -194,6 +199,11 @@
       "title": "Bomberman 2",
       "year_published": 1993,
       "rarity": 6
+    },
+    {
+      "title": "Bonk's Adventure",
+      "year_published": 1993,
+      "rarity": 7
     },
     {
       "title": "Boulder Dash",
@@ -324,6 +334,11 @@
       "title": "Contra Force",
       "year_published": 1992,
       "rarity": 6
+    },
+    {
+      "title": "Cowboy Kid",
+      "year_published": 1992,
+      "rarity": 7
     },
     {
       "title": "Crystalis",
@@ -706,6 +721,11 @@
       "rarity": 3
     },
     {
+      "title": "Little Samson",
+      "year_published": 1992,
+      "rarity": 7
+    },
+    {
       "title": "Lode Runner",
       "year_published": 1987,
       "rarity": 4
@@ -891,6 +911,11 @@
       "rarity": 4
     },
     {
+      "title": "Panic Restaurant",
+      "year_published": 1992,
+      "rarity": 7
+    },
+    {
       "title": "Paperboy",
       "year_published": 1988,
       "rarity": 3
@@ -914,6 +939,11 @@
       "title": "Power Blade",
       "year_published": 1991,
       "rarity": 3
+    },
+    {
+      "title": "Power Blade 2",
+      "year_published": 1992,
+      "rarity": 7
     },
     {
       "title": "Prince of Persia",
@@ -1066,6 +1096,11 @@
       "rarity": 6
     },
     {
+      "title": "Six in One",
+      "year_published": 1992,
+      "rarity": 10
+    },
+    {
       "title": "Slalom",
       "year_published": 1987,
       "rarity": 4
@@ -1124,6 +1159,11 @@
       "title": "Stack-Up",
       "year_published": 1985,
       "rarity": 6
+    },
+    {
+      "title": "Stadium Events",
+      "year_published": 1987,
+      "rarity": 9
     },
     {
       "title": "Star Voyager",
@@ -1226,6 +1266,11 @@
       "rarity": 5
     },
     {
+      "title": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+      "year_published": 1994,
+      "rarity": 7
+    },
+    {
       "title": "Tetris",
       "year_published": 1989,
       "rarity": 1
@@ -1244,6 +1289,11 @@
       "title": "The Battle of Olympus",
       "year_published": 1989,
       "rarity": 3
+    },
+    {
+      "title": "The Flintstones - The Surprise at Dinosaur Peak!",
+      "year_published": 1993,
+      "rarity": 8
     },
     {
       "title": "The Immortal",
@@ -1344,6 +1394,11 @@
       "title": "Wario's Woods",
       "year_published": 1994,
       "rarity": 6
+    },
+    {
+      "title": "Wayne's World",
+      "year_published": 1993,
+      "rarity": 7
     },
     {
       "title": "Wheel of Fortune - Family Edition",
