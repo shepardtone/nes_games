@@ -56,6 +56,26 @@
       "rarity": 5
     },
     {
+      "title": "Adventures of Dino Riki",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "Adventures of Lolo",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "Adventures of Lolo 2",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Adventures of Lolo 3",
+      "year_published": 1991,
+      "rarity": 5
+    },
+    {
       "title": "Afterburner",
       "year_published": 1989,
       "rarity": 3
@@ -539,6 +559,11 @@
       "title": "Gyruss",
       "year_published": 1989,
       "rarity": 3
+    },
+    {
+      "title": "Harlem Globetrotters",
+      "year_published": 1991,
+      "rarity": 5
     },
     {
       "title": "Hogan's Alley'",
@@ -1164,6 +1189,96 @@
       "title": "Super Sprint",
       "year_published": 1989,
       "rarity": 2
+    },
+    {
+      "title": "Tale Spin",
+      "year_published": 1991,
+      "rarity": 4
+    },
+    {
+      "title": "Tecmo Baseball",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "Tecmo Bowl",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "Tecmo Super Bowl",
+      "year_published": 1991,
+      "rarity": 4
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "year_published": 1989,
+      "rarity": 2
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+      "year_published": 1990,
+      "rarity": 3
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles III - The Manhattan Project",
+      "year_published": 1992,
+      "rarity": 5
+    },
+    {
+      "title": "Tetris",
+      "year_published": 1989,
+      "rarity": 1
+    },
+    {
+      "title": "Tetris 2",
+      "year_published": 1993,
+      "rarity": 3
+    },
+    {
+      "title": "The Adventures of Bayou Billy",
+      "year_published": 1989,
+      "rarity": 2
+    },
+    {
+      "title": "The Battle of Olympus",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "The Immortal",
+      "year_published": 1990,
+      "rarity": 5
+    },
+    {
+      "title": "The Legend of Kage",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "The Legend of Zelda",
+      "year_published": 1987,
+      "rarity": 1
+    },
+    {
+      "title": "The Lone Ranger",
+      "year_published": 1991,
+      "rarity": 6
+    },
+    {
+      "title": "The Simpson's - Bartman Meets Radioactive Man",
+      "year_published": 1992,
+      "rarity": 5
+    },
+    {
+      "title": "The Simpson's - Bart vs. the Space Mutants",
+      "year_published": 1991,
+      "rarity": 3
+    },
+    {
+      "title": "The Simpson's - Bart vs. the World",
+      "year_published": 1991,
+      "rarity": 3
     }
   ]
 }
