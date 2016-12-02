@@ -699,6 +699,151 @@
       "title": "Lunar Pool",
       "year_published": 1987,
       "rarity": 3
+    },
+    {
+      "title": "Mach Rider",
+      "year_published": 1985,
+      "rarity": 2
+    },
+    {
+      "title": "Magic Darts",
+      "year_published": 1991,
+      "rarity": 5
+    },
+    {
+      "title": "Major League Baseball",
+      "year_published": 1988,
+      "rarity": 2
+    },
+    {
+      "title": "Maniac Mansion",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Marble Madness",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "Mario Bros.",
+      "year_published": 1986,
+      "rarity": 5
+    },
+    {
+      "title": "Marvel's X-Men",
+      "year_published": 1989,
+      "rarity": 4
+    },
+    {
+      "title": "Mega Man",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "Mega Man 2",
+      "year_published": 1989,
+      "rarity": 2
+    },
+    {
+      "title": "Mega Man 3",
+      "year_published": 1990,
+      "rarity": 2
+    },
+    {
+      "title": "Mega Man 4",
+      "year_published": 1992,
+      "rarity": 3
+    },
+    {
+      "title": "Mega Man 5",
+      "year_published": 1992,
+      "rarity": 5
+    },
+    {
+      "title": "Mega Man 6",
+      "year_published": 1993,
+      "rarity": 4
+    },
+    {
+      "title": "Metal Gear",
+      "year_published": 1988,
+      "rarity": 3
+    },
+    {
+      "title": "Metal Storm",
+      "year_published": 1991,
+      "rarity": 5
+    },
+    {
+      "title": "Metroid",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "Mike Tyson's Punch-Out!!",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "Millipede",
+      "year_published": 1988,
+      "rarity": 4
+    },
+    {
+      "title": "Monopoly",
+      "year_published": 1991,
+      "rarity": 4
+    },
+    {
+      "title": "Monster Truck Rally",
+      "year_published": 1991,
+      "rarity": 6
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "year_published": 1993,
+      "rarity": 5
+    },
+    {
+      "title": "Mystery Quest",
+      "year_published": 1989,
+      "rarity": 4
+    },
+    {
+      "title": "NES Open Tournament Golf",
+      "year_published": 1991,
+      "rarity": 2
+    },
+    {
+      "title": "NES Play Action Football",
+      "year_published": 1990,
+      "rarity": 1
+    },
+    {
+      "title": "NFL Football",
+      "year_published": 1989,
+      "rarity": 2
+    },
+    {
+      "title": "Ninja Gaiden",
+      "year_published": 1989,
+      "rarity": 2
+    },
+    {
+      "title": "Ninja Gaiden II, The Dark Sword of Chaos",
+      "year_published": 1990,
+      "rarity": 3
+    },
+    {
+      "title": "Ninja Gaiden III, The Ancient Ship of Doom",
+      "year_published": 1991,
+      "rarity": 5
+    },
+    {
+      "title": "North and South",
+      "year_published": 1990,
+      "rarity": 5
     }
   ]
 }
