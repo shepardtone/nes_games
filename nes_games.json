@@ -844,6 +844,156 @@
       "title": "North and South",
       "year_published": 1990,
       "rarity": 5
+    },
+    {
+      "title": "Operation Wolf",
+      "year_published": 1989,
+      "rarity": 3
+    },
+    {
+      "title": "Orb-3D",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Othello",
+      "year_published": 1988,
+      "rarity": 4
+    },
+    {
+      "title": "Pac-Man",
+      "year_published": 1989,
+      "rarity": 4
+    },
+    {
+      "title": "Paperboy",
+      "year_published": 1988,
+      "rarity": 3
+    },
+    {
+      "title": "Pinball",
+      "year_published": 1985,
+      "rarity": 2
+    },
+    {
+      "title": "Pipe Dream",
+      "year_published": 1990,
+      "rarity": 5
+    },
+    {
+      "title": "Popeye",
+      "year_published": 1986,
+      "rarity": 4
+    },
+    {
+      "title": "Power Blade",
+      "year_published": 1991,
+      "rarity": 3
+    },
+    {
+      "title": "Prince of Persia",
+      "year_published": 1992,
+      "rarity": 5
+    },
+    {
+      "title": "Princess Tomato in the Salad Kingdom",
+      "year_published": 1991,
+      "rarity": 6
+    },
+    {
+      "title": "Pro Wrestling",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "Punch-Out!!",
+      "year_published": 1992,
+      "rarity": 3
+    },
+    {
+      "title": "The Punisher",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Puzzle",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Q*bert",
+      "year_published": 1989,
+      "rarity": 5
+    },
+    {
+      "title": "R.B.I. Baseball",
+      "year_published": 1988,
+      "rarity": 4
+    },
+    {
+      "title": "R.B.I. Baseball 2",
+      "year_published": 1990,
+      "rarity": 3
+    },
+    {
+      "title": "R.C. Pro-Am",
+      "year_published": 1988,
+      "rarity": 2
+    },
+    {
+      "title": "R.C. Pro-Am II",
+      "year_published": 1992,
+      "rarity": 6
+    },
+    {
+      "title": "Rad Racer",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "Rad Racer II",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Raid on Bungeling Bay",
+      "year_published": 1987,
+      "rarity": 3
+    },
+    {
+      "title": "Rampage",
+      "year_published": 1988,
+      "rarity": 4
+    },
+    {
+      "title": "Renegade",
+      "year_published": 1988,
+      "rarity": 3
+    },
+    {
+      "title": "River City Ransom",
+      "year_published": 1990,
+      "rarity": 4
+    },
+    {
+      "title": "Road Runner",
+      "year_published": 1989,
+      "rarity": 4
+    },
+    {
+      "title": "Rolling Thunder",
+      "year_published": 1989,
+      "rarity": 4
+    },
+    {
+      "title": "Rush'n Attack",
+      "year_published": 1987,
+      "rarity": 2
+    },
+    {
+      "title": "Rygar",
+      "year_published": 1987,
+      "rarity": 3
     }
   ]
 }
